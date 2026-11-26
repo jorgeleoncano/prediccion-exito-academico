@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# figuras que generan los scripts al ejecutarse (las del README están en figuras/)
+/fig_*.png
